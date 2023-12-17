@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\bin\Debug\questao 4.exe.config
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\bin\Debug\questao 4.exe
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\bin\Debug\questao 4.pdb
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao 4.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao_4.Form1.resources
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao_4.Properties.Resources.resources
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao 4.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao 4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao 4.exe
+C:\Users\Dell\Desktop\Primeira parte teste\questao 4\questao 4\obj\Debug\questao 4.pdb

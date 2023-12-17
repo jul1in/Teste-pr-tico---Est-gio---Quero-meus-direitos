@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\bin\Debug\net8.0-windows\questão 1.exe
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\bin\Debug\net8.0-windows\questão 1.deps.json
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\bin\Debug\net8.0-windows\questão 1.runtimeconfig.json
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\bin\Debug\net8.0-windows\questão 1.dll
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\bin\Debug\net8.0-windows\questão 1.pdb
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão_1.Form1.resources
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.dll
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\refint\questão 1.dll
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.pdb
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\questão 1.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Primeira parte teste\questão 1\questão 1\obj\Debug\net8.0-windows\ref\questão 1.dll
